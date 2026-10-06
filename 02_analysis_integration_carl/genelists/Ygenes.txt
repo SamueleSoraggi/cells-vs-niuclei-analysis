@@ -1,0 +1,316 @@
+tax_id	Org_name	GeneID	CurrentID	Status	Symbol	Aliases	description	other_designations	map_location	chromosome	genomic_nucleotide_accession.version	start_position_on_the_genomic_accession	end_position_on_the_genomic_accession	orientation	exon_count	OMIM	
+9598	Pan troglodytes	449510	0	live	SRY		sex determining region Y	sex-determining region Y protein|testis-determining factor		Y	NC_072422.1	2975030	2975939	minus	1		
+9598	Pan troglodytes	449580	0	live	ZFY		zinc finger protein Y-linked	zinc finger Y-chromosomal protein		Y	NC_072422.1	3125714	3175902	plus	10		
+9598	Pan troglodytes	449509	0	live	RPS4Y1	RPS4Y	ribosomal protein S4 Y-linked 1	small ribosomal subunit protein eS4, Y isoform 1|40S ribosomal protein S4, Y|small ribosomal subunit protein eS4, Y		Y	NC_072422.1	3033922	3059033	plus	7		
+9598	Pan troglodytes	473886	0	live	AMELY		amelogenin Y-linked	amelogenin, Y isoform|amelogenin (Y chromosome)		Y	NC_072422.1	3364090	3573075	minus	8		
+9598	Pan troglodytes	739415	0	live	ASMTL	CK820_G0054987	acetylserotonin O-methyltransferase like	probable bifunctional dTTP/UTP pyrophosphatase/methyltransferase protein|N-acetylserotonin O-methyltransferase-like protein		X	NC_072421.1	1933749	1989226	minus	14		
+9598	Pan troglodytes	739415	0	live	ASMTL	CK820_G0054987	acetylserotonin O-methyltransferase like	probable bifunctional dTTP/UTP pyrophosphatase/methyltransferase protein|N-acetylserotonin O-methyltransferase-like protein		Y	NC_072422.1	1729386	1785668	minus	14		
+9598	Pan troglodytes	749758	0	live	CRLF2	CK820_G0054208	cytokine receptor like factor 2	LOW QUALITY PROTEIN: cytokine receptor-like factor 2|cytokine receptor like factor 2|cytokine receptor-like factor 2		X	NC_072421.1	1691305	1714452	minus	8		
+9598	Pan troglodytes	749758	0	live	CRLF2	CK820_G0054208	cytokine receptor like factor 2	LOW QUALITY PROTEIN: cytokine receptor-like factor 2|cytokine receptor like factor 2|cytokine receptor-like factor 2		Y	NC_072422.1	1486615	1508921	minus	12		
+9598	Pan troglodytes	746936	0	live	CSF2RA	CK820_G0054206	colony stimulating factor 2 receptor subunit alpha	granulocyte-macrophage colony-stimulating factor receptor subunit alpha|LOW QUALITY PROTEIN: granulocyte-macrophage colony-stimulating factor receptor subunit alpha|colony stimulating factor 2 receptor alpha subunit|colony stimulating factor 2 receptor, alpha, low-affinity (granulocyte-macrophage)		X	NC_072421.1	1774933	1835200	plus	15		
+9598	Pan troglodytes	746936	0	live	CSF2RA	CK820_G0054206	colony stimulating factor 2 receptor subunit alpha	granulocyte-macrophage colony-stimulating factor receptor subunit alpha|LOW QUALITY PROTEIN: granulocyte-macrophage colony-stimulating factor receptor subunit alpha|colony stimulating factor 2 receptor alpha subunit|colony stimulating factor 2 receptor, alpha, low-affinity (granulocyte-macrophage)		Y	NC_072422.1	1576812	1610349	plus	11		
+9598	Pan troglodytes	473859	0	live	ZBED1	CK820_G0053335	zinc finger BED-type containing 1	E3 SUMO-protein ligase ZBED1		X	NC_072421.1	2866280	2880850	minus	3		
+9598	Pan troglodytes	473859	0	live	ZBED1	CK820_G0053335	zinc finger BED-type containing 1	E3 SUMO-protein ligase ZBED1		Y	NC_072422.1	2668989	2684238	minus	3		
+9598	Pan troglodytes	465981	0	live	TBL1Y		transducin beta like 1 Y-linked	F-box-like/WD repeat-containing protein TBL1Y|LOW QUALITY PROTEIN: F-box-like/WD repeat-containing protein TBL1Y|transducin (beta)-like 1Y-linked		Y	NC_072422.1	3687344	3764780	plus	14		
+9598	Pan troglodytes	449636	0	live	RPS4Y2		ribosomal protein S4 Y-linked 2	small ribosomal subunit protein eS4, Y isoform 2|40S ribosomal protein S4, Y|small ribosomal subunit protein eS4, Y		Y	NC_072422.1	11806383	11831905	plus	8		
+9598	Pan troglodytes	449508	0	live	DDX3Y	DBY	DEAD-box helicase 3 Y-linked	ATP-dependent RNA helicase DDX3Y|DEAD (Asp-Glu-Ala-Asp) box helicase 3, Y-linked|DEAD (Asp-Glu-Ala-Asp) box polypeptide 3, Y-linked|DEAD box protein 3, Y-chromosomal		Y	NC_072422.1	8760423	8776954	minus	20		
+9598	Pan troglodytes	449499	0	live	EIF1AY		eukaryotic translation initiation factor 1A Y-linked	eukaryotic translation initiation factor 1A, Y-chromosomal|eIF-4C|eIF1A Y isoform|eukaryotic translation initiation factor 4C		Y	NC_072422.1	11626426	11643155	plus	7		
+9598	Pan troglodytes	449032	0	live	KDM5D	JARID1D, SMCY	lysine demethylase 5D	lysine-specific demethylase 5D|SMC protein|Smcy homolog, Y-linked|[histone H3]-trimethyl-L-lysine(4) demethylase 5D|histone demethylase JARID1D|jumonji, AT rich interactive domain 1D|jumonji/ARID domain-containing protein 1D|lysine (K)-specific demethylase 5D|protein SmcY		Y	NC_072422.1	11042149	11081325	minus	27		
+9598	Pan troglodytes	449030	0	live	NLGN4Y		neuroligin 4 Y-linked	neuroligin-4, Y-linked		Y	NC_072422.1	5948685	6239404	plus	7		
+9598	Pan troglodytes	449495	0	live	PRKY	PRKX	protein kinase, Y-linked	serine/threonine-protein kinase PRKX|protein kinase, X-linked		Y	NC_072422.1	3940578	4043415	plus	9		
+9598	Pan troglodytes	100615666	0	live	CD99	CK820_G0053331	CD99 molecule (Xg blood group)	CD99 antigen		X	NC_072421.1	3075258	3127102	plus	11		
+9598	Pan troglodytes	100615666	0	live	CD99	CK820_G0053331	CD99 molecule (Xg blood group)	CD99 antigen		Y	NC_072422.1	2874360	2930666	plus	11		
+9598	Pan troglodytes	450201	0	live	TXLNGY	CYHYorf15A, CYorf15A	putative gamma-taxilin 2	putative gamma-taxilin 2|uncharacterized protein CYorf15A homolog		Y	NC_072422.1	10918917	10922079	plus	3		
+9598	Pan troglodytes	465985	0	live	USP9Y		ubiquitin specific peptidase 9, Y-linked	probable ubiquitin carboxyl-terminal hydrolase FAF-Y|Fat facets protein related, Y-linked|deubiquitinating enzyme FAF-Y|ubiquitin carboxyl-terminal hydrolase FAF-Y|ubiquitin specific peptidase 9, Y-linked (fat facets-like, Drosophila)|ubiquitin thiolesterase FAF-Y|ubiquitin-specific protease 9, Y-linked		Y	NC_072422.1	8821726	8966462	minus	37		
+9598	Pan troglodytes	450123	0	live	LOC450123	CDY1B, CDY2, CDY2A, CDY2B	testis-specific chromodomain protein Y 1	chromodomain Y protein|chromodomain protein, Y-linked, 1B|chromodomain protein, Y-linked, 2A|chromodomain protein, Y-linked, 2B		Y							
+9598	Pan troglodytes	744034	0	live	CDY1	CDY	chromodomain protein, Y-linked, 1	chromodomain protein, Y-linked, 1|Y chromosome chromodomain protein 1, telomeric|chromodomain Y protein|testis-specific chromodomain protein Y 2		Y	NC_072422.1	16123187	16125166	minus	1		
+9598	Pan troglodytes	736860	0	live	LOC736860	RBMY1J	RNA-binding motif protein, Y chromosome, family 1 member F/J	RNA-binding motif protein, Y chromosome, family 1 member F/J|RBMY1|RNA binding motif protein, Y-linked, family 1, member J		Y	NC_072422.1	19987561	20002093	plus	13		
+9598	Pan troglodytes	736268	0	live	LOC736268		RNA-binding motif protein, Y chromosome, family 1 member F/J	RNA-binding motif protein, Y chromosome, family 1 member F/J|RBMY1|RNA binding motif protein, Y-linked, family 1, member A1		Y	NC_072422.1	19547170	19561690	minus	13		
+9598	Pan troglodytes	749905	0	live	LOC749905	DAZ1	deleted in azoospermia protein 1	deleted in azoospermia protein 1|DAZ protein|deleted in azoospermia 1		Y	NC_072422.1	26871003	26934574	minus	28		
+9598	Pan troglodytes	100499477	0	live	MTRNR2L17		MTRNR2-like 17	MTRNR2-like 17		Y	NC_072422.1	12595414	12596973	minus	1		
+9598	Pan troglodytes	112207609	0	live	PPP2R3B		protein phosphatase 2 regulatory subunit B''beta	LOW QUALITY PROTEIN: serine/threonine-protein phosphatase 2A regulatory subunit B'' subunit beta|serine/threonine-protein phosphatase 2A regulatory subunit B'' subunit beta		X	NC_072421.1	780459	846420	minus	15		
+9598	Pan troglodytes	112207609	0	live	PPP2R3B		protein phosphatase 2 regulatory subunit B''beta	LOW QUALITY PROTEIN: serine/threonine-protein phosphatase 2A regulatory subunit B'' subunit beta|serine/threonine-protein phosphatase 2A regulatory subunit B'' subunit beta		Y	NC_072422.1	597300	631632	minus	7		
+9598	Pan troglodytes	107972835	0	live	IL3RA		interleukin 3 receptor subunit alpha	interleukin-3 receptor subunit alpha|interleukin 3 receptor, alpha (low affinity)		X	NC_072421.1	1869600	1909407	plus	11		
+9598	Pan troglodytes	107972835	0	live	IL3RA		interleukin 3 receptor subunit alpha	interleukin-3 receptor subunit alpha|interleukin 3 receptor, alpha (low affinity)		Y	NC_072422.1	1663912	1704355	plus	12		
+9598	Pan troglodytes	107972834	0	live	SLC25A6	CK820_G0056612	solute carrier family 25 member 6	ADP/ATP translocase 3		X	NC_072421.1	1914607	1920298	minus	4		
+9598	Pan troglodytes	107972834	0	live	SLC25A6	CK820_G0056612	solute carrier family 25 member 6	ADP/ATP translocase 3		Y	NC_072422.1	1709555	1715452	minus	4		
+9598	Pan troglodytes	100609298	0	live	LOC100609298		RNA-binding motif protein, Y chromosome, family 1 member F/J-like	RNA-binding motif protein, Y chromosome, family 1 member F/J-like		Y	NC_072422.1	20724342	20738867	plus	13		
+9598	Pan troglodytes	100312663	0	live	PANTROV1R-PS258		vomeronasal 1 receptor panTroV1R-ps258 pseudogene			Y	NC_072422.1	28238919	28239747	minus	0		
+9598	Pan troglodytes	100312657	0	live	PANTROV1R-PS302		vomeronasal 1 receptor panTroV1R-ps302 pseudogene			Y							
+9598	Pan troglodytes	100312656	0	live	PANTROV1R-PS301		vomeronasal 1 receptor panTroV1R-ps301 pseudogene			Y							
+9598	Pan troglodytes	100312655	0	live	PANTROV1R-PS300		vomeronasal 1 receptor panTroV1R-ps300 pseudogene			Y	NC_072422.1	28066548	28068697	plus	0		
+9598	Pan troglodytes	100312611	0	live	PANTROV1R-PS299		vomeronasal 1 receptor panTroV1R-ps299 pseudogene			Y	NC_072422.1	13587124	13587276	plus	0		
+9598	Pan troglodytes	736145	0	live	LOC736145		RNA-binding motif protein, Y chromosome, family 1 member F/J-like	RNA-binding motif protein, Y chromosome, family 1 member F/J-like		Y	NC_072422.1	21018843	21033328	minus	13		
+9598	Pan troglodytes	449579	0	live	UTY		ubiquitously transcribed tetratricopeptide repeat containing, Y-linked	histone demethylase UTY|[histone H3]-trimethyl-L-lysine(27) demethylase UTY|ubiquitously transcribed TPR protein on the Y chromosome|ubiquitously transcribed Y chromosome tetratricopeptide repeat protein|ubiquitously transcribed tetratricopeptide repeat Y-linked|ubiquitously transcribed tetratricopeptide repeat gene, Y-linked|ubiquitously transcribed tetratricopeptide repeat protein		Y	NC_072422.1	8173157	8409832	plus	31		
+9598	Pan troglodytes	112207529	0	live	DHRSX	CK820_G0056162	dehydrogenase/reductase X-linked	dehydrogenase/reductase SDR family member on chromosome X		X	NC_072421.1	2582029	2880831	minus	7		
+9598	Pan troglodytes	112207529	0	live	DHRSX	CK820_G0056162	dehydrogenase/reductase X-linked	dehydrogenase/reductase SDR family member on chromosome X		Y	NC_072422.1	2336592	2684219	minus	9		
+9598	Pan troglodytes	738636	0	live	LOC738636	DAZ2, DAZ3	deleted in azoospermia protein 3	deleted in azoospermia protein 3|deleted in azoospermia protein 2|deleted in azoospermia 3		Y	NC_072422.1	17113880	17167760	minus	24		
+9598	Pan troglodytes	101059302	0	live	LOC101059302		BCL-6 corepressor	BCL-6 corepressor		Y	NC_072422.1	10811208	10813788	minus	4		
+9598	Pan troglodytes	742075	0	live	LOC742075		variable charge Y-linked-like	LOW QUALITY PROTEIN: variable charge X-linked protein 1		Y	NC_072422.1	7610034	7611032	plus	2		
+9598	Pan troglodytes	739157	0	live	LOC739157		testis-specific chromodomain protein Y 1	LOW QUALITY PROTEIN: testis-specific chromodomain protein Y 1|Y chromosome chromodomain protein 1, telomeric		Y	NC_072422.1	25588834	25591078	minus	2		
+9598	Pan troglodytes	100608527	0	live	TMSB4Y		thymosin beta 4 Y-linked			Y							
+9598	Pan troglodytes	751610	0	live	SHROOM2P1	APXLP	shroom family member 2 pseudogene 1	apical protein-like (Xenopus laevis) pseudogene		Y	NC_072422.1	9140066	9148137	minus	0		
+9598	Pan troglodytes	751057	0	live	LOC751057		uncharacterized LOC751057	CD99 antigen		Y							
+9598	Pan troglodytes	449583	0	live	TTTY15		Y-linked testis transcript 15			Y	NC_072422.1	9019909	9022110	minus	2		
+9598	Pan troglodytes	449031	0	live	TTTY14		testis-specific transcript, Y-linked 14			Y	NC_072422.1	10246637	10396767	minus	2		
+9598	Pan troglodytes	744070	0	live	LOC744070	CDY	testis-specific chromodomain protein Y 1	LOW QUALITY PROTEIN: testis-specific chromodomain protein Y 1|Y chromosome chromodomain protein 1, telomeric		Y	NC_072422.1	25727677	25729921	plus	2		
+9598	Pan troglodytes	100499476	0	live	LOC100499476		MTRNR2-like	MTRNR2-like		Y	NC_072422.1	24513026	24514585	minus	1		
+9598	Pan troglodytes	100499475	0	live	LOC100499475		MTRNR2-like	MTRNR2-like		Y	NC_072422.1	14940976	14942534	plus	1		
+9598	Pan troglodytes	100499474	0	live	LOC100499474		MTRNR2L pseudogene			Y	NC_072422.1	15802531	15804060	plus	0		
+9598	Pan troglodytes	129138960	0	live	LOC129138960		testis-specific Y-encoded protein 3	testis-specific Y-encoded protein 3		Y	NC_072422.1	29685126	29687990	minus	6		
+9598	Pan troglodytes	129138959	0	live	LOC129138959		testis-specific Y-encoded protein 3	testis-specific Y-encoded protein 3		Y	NC_072422.1	29631326	29634190	minus	6		
+9598	Pan troglodytes	129138958	0	live	LOC129138958		testis-specific Y-encoded protein 3-like	testis-specific Y-encoded protein 3-like		Y	NC_072422.1	29706650	29709514	minus	6		
+9598	Pan troglodytes	129138957	0	live	LOC129138957		testis-specific Y-encoded protein 3-like	testis-specific Y-encoded protein 3-like		Y	NC_072422.1	29642088	29644952	minus	6		
+9598	Pan troglodytes	129138956	0	live	LOC129138956		testis-specific Y-encoded protein 3	testis-specific Y-encoded protein 3		Y	NC_072422.1	29749698	29752562	minus	6		
+9598	Pan troglodytes	129138955	0	live	LOC129138955		testis-specific Y-encoded protein 3	testis-specific Y-encoded protein 3		Y	NC_072422.1	29695888	29698752	minus	6		
+9598	Pan troglodytes	129138954	0	live	LOC129138954		testis-specific Y-encoded protein 3-like	testis-specific Y-encoded protein 3-like		Y	NC_072422.1	29738936	29741800	minus	6		
+9598	Pan troglodytes	129138949	0	live	LOC129138949		testis-specific Y-encoded protein 3	testis-specific Y-encoded protein 3		Y	NC_072422.1	29728174	29731038	minus	6		
+9598	Pan troglodytes	129138948	0	live	LOC129138948		testis-specific Y-encoded protein 3	testis-specific Y-encoded protein 3		Y	NC_072422.1	29717412	29720276	minus	6		
+9598	Pan troglodytes	129138945	0	live	LOC129138945		serine/threonine-protein phosphatase 2A regulatory subunit B'' subunit beta-like	serine/threonine-protein phosphatase 2A regulatory subunit B'' subunit beta-like		Y	NC_072422.1	563851	575471	minus	7		
+9598	Pan troglodytes	129138942	0	live	LOC129138942		testis-specific Y-encoded protein 3	testis-specific Y-encoded protein 3		Y	NC_072422.1	29620564	29623428	minus	6		
+9598	Pan troglodytes	129138941	0	live	LOC129138941		testis-specific Y-encoded protein 3-like	testis-specific Y-encoded protein 3-like		Y	NC_072422.1	29609802	29612666	minus	6		
+9598	Pan troglodytes	129135429	0	live	LOC129135429		testis-specific Y-encoded protein 3	testis-specific Y-encoded protein 3		Y	NC_072422.1	29663612	29666476	minus	6		
+9598	Pan troglodytes	129135297	0	live	LOC129135297		testis-specific Y-encoded protein 3-like	testis-specific Y-encoded protein 3-like		Y	NC_072422.1	29781984	29784752	minus	6		
+9598	Pan troglodytes	129135290	0	live	LOC129135290		putative GTP-binding protein 6	putative GTP-binding protein 6		Y	NC_072422.1	539086	553008	minus	10		
+9598	Pan troglodytes	112208986	0	live	LOC112208986		CBY1-interacting BAR domain-containing protein 1-like	CBY1-interacting BAR domain-containing protein 1-like		Y	NC_072422.1	8484352	8485339	minus	1		
+9598	Pan troglodytes	112208098	0	live	LOC112208098	CK820_G0053965	RNA-binding motif protein, Y chromosome, family 1 member F/J	RNA-binding motif protein, Y chromosome, family 1 member F/J|RBMY1F		Y	NC_072422.1	20282046	20296519	minus	13		
+9598	Pan troglodytes	112208077	0	live	LOC112208077		proteasome subunit alpha type-6-like	proteasome subunit alpha type-6-like|proteasome subunit alpha type-6 pseudogene		Y	NC_072422.1	8370789	8371758	minus	1		
+9598	Pan troglodytes	112208041	0	live	LOC112208041		testis-specific Y-encoded protein 3-like	testis-specific Y-encoded protein 3-like		Y	NC_072422.1	29475713	29478547	plus	6		
+9598	Pan troglodytes	112207446	0	live	LOC112207446		testis-specific Y-encoded protein 3	testis-specific Y-encoded protein 3		Y	NC_072422.1	29760460	29763324	minus	6		
+9598	Pan troglodytes	112207444	0	live	LOC112207444		testis-specific Y-encoded protein 3	testis-specific Y-encoded protein 3		Y	NC_072422.1	29652850	29655604	minus	6		
+9598	Pan troglodytes	107973386	0	live	LOC107973386		testis-specific Y-encoded protein 3	testis-specific Y-encoded protein 3		Y	NC_072422.1	29771222	29774086	minus	6		
+9598	Pan troglodytes	107971217	0	live	LOC107971217	CK820_G0056201, SHOX	short stature homeobox protein	short stature homeobox protein		X	NC_072421.1	1118681	1134809	plus	5		
+9598	Pan troglodytes	107971217	0	live	LOC107971217	CK820_G0056201, SHOX	short stature homeobox protein	short stature homeobox protein		Y	NC_072422.1	915228	945637	plus	6		
+9598	Pan troglodytes	749953	0	live	LOC749953		testis-specific Y-encoded protein 3-like	testis-specific Y-encoded protein 3-like		Y	NC_072422.1	29545327	29548184	minus	6		
+9598	Pan troglodytes	745213	0	live	LOC745213		RNA-binding motif protein, Y chromosome, family 1 member F/J-like	RNA-binding motif protein, Y chromosome, family 1 member F/J-like		Y	NC_072422.1	29794415	29808858	plus	11		
+9598	Pan troglodytes	745154	0	live	LOC745154		testis-specific Y-encoded protein 3	testis-specific Y-encoded protein 3		Y	NC_072422.1	29599040	29601904	minus	6		
+9598	Pan troglodytes	745124	0	live	LOC745124		testis-specific Y-encoded protein 3-like	testis-specific Y-encoded protein 3-like		Y	NC_072422.1	29588278	29591142	minus	6		
+9598	Pan troglodytes	745089	0	live	LOC745089		testis-specific Y-encoded protein 3	testis-specific Y-encoded protein 3		Y	NC_072422.1	29577504	29580380	minus	6		
+9598	Pan troglodytes	740336	0	live	LOC740336		RNA-binding motif protein, Y chromosome, family 1 member F/J	RNA-binding motif protein, Y chromosome, family 1 member F/J		Y	NC_072422.1	12389062	12403556	plus	13		
+9598	Pan troglodytes	739765	0	live	LOC739765		testis-specific Y-encoded protein 3	testis-specific Y-encoded protein 3		Y	NC_072422.1	14838098	14840960	minus	6		
+9598	Pan troglodytes	737822	0	live	LOC737822		testis-specific Y-encoded protein 3-like	testis-specific Y-encoded protein 3-like		Y	NC_072422.1	19229266	19232052	minus	6		
+9598	Pan troglodytes	736159	0	live	LOC736159		RNA-binding motif protein, Y chromosome, family 1 member A1-like	RNA-binding motif protein, Y chromosome, family 1 member A1-like		Y	NC_072422.1	21459785	21489194	plus	10		
+9598	Pan troglodytes	129138939	0	live	LOC129138939		PI-PLC X domain-containing protein 1-like	PI-PLC X domain-containing protein 1-like		Y	NC_072422.1	516195	537696	plus	10		
+9598	Pan troglodytes	129138938	0	live	LOC129138938		MAM and LDL-receptor class A domain-containing protein 1-like	MAM and LDL-receptor class A domain-containing protein 1-like|uncharacterized protein LOC129138938		Y	NC_072422.1	11344	480300	minus	16		
+9598	Pan troglodytes	112208053	0	live	LOC112208053	CK820_G0052619	deleted in azoospermia protein 2	deleted in azoospermia protein 2|deleted in azoospermia protein 4|DAZ1		Y	NC_072422.1	17187956	17232273	plus	18		
+9598	Pan troglodytes	107971262	0	live	LOC107971262		heat shock transcription factor, Y-linked-like	heat shock transcription factor, Y-linked-like|heat shock transcription factor, Y-linked pseudogene		Y	NC_072422.1	30902633	30904182	minus	2		
+9598	Pan troglodytes	100615389	0	live	LOC100615389		putative SLC9B1-like protein SLC9B1P1	putative SLC9B1-like protein SLC9B1P1		Y	NC_072422.1	31643992	31657216	plus	7		
+9598	Pan troglodytes	744621	0	live	LOC744621	DAZ2, DAZ3	deleted in azoospermia protein 1	deleted in azoospermia protein 3|deleted in azoospermia protein 1|deleted in azoospermia 2|deleted in azoospermia 3|deleted in azoospermia protein 4		Y	NC_072422.1	26954897	27006871	plus	23		
+9598	Pan troglodytes	112209182	0	live	LOC112209182		matrix-remodeling-associated protein 5-like	LOW QUALITY PROTEIN: matrix-remodeling-associated protein 5-like		Y	NC_072422.1	4357030	4388571	plus	4		
+9598	Pan troglodytes	112208584	0	live	LOC112208584		glutamate dehydrogenase 1, mitochondrial-like	glutamate dehydrogenase 1, mitochondrial-like		Y	NC_072422.1	27620764	27621950	minus	1		
+9598	Pan troglodytes	112208357	0	live	LOC112208357		arylsulfatase F-like	arylsulfatase F-like		Y	NC_072422.1	9445189	9449237	plus	2		
+9598	Pan troglodytes	107971297	0	live	LOC107971297		protein kish-A-like	protein kish-A-like|protein kish-A pseudogene		Y	NC_072422.1	11970319	11970537	minus	1		
+9598	Pan troglodytes	107971195	0	live	LOC107971195	CK820_G0054984, ASMT	acetylserotonin O-methyltransferase	acetylserotonin O-methyltransferase		X	NC_072421.1	2148615	2175363	plus	10		
+9598	Pan troglodytes	107971195	0	live	LOC107971195	CK820_G0054984, ASMT	acetylserotonin O-methyltransferase	acetylserotonin O-methyltransferase		Y	NC_072422.1	1943866	1970995	plus	11		
+9598	Pan troglodytes	750007	0	live	LOC750007		glutamate dehydrogenase 1, mitochondrial-like	glutamate dehydrogenase 1, mitochondrial-like		Y	NC_072422.1	30905770	30906956	minus	1		
+9598	Pan troglodytes	745547	0	live	LOC745547		testis-specific chromodomain protein Y 1	testis-specific chromodomain protein Y 1		Y	NC_072422.1	31085057	31087275	minus	1		
+9598	Pan troglodytes	742119	0	live	LOC742119		variable charge Y-linked-like	variable charge X-linked protein 2		Y	NC_072422.1	7518607	7519595	minus	2		
+9598	Pan troglodytes	740402	0	live	LOC740402		glutamate dehydrogenase 1, mitochondrial-like	glutamate dehydrogenase 1, mitochondrial-like		Y	NC_072422.1	18209226	18210412	minus	1		
+9598	Pan troglodytes	465993	0	live	LOC465993		BCL-6 corepressor-like	LOW QUALITY PROTEIN: BCL-6 corepressor-like		Y	NC_072422.1	10785313	10811118	minus	10		
+9598	Pan troglodytes	129388401	0	live	LOC129388401		testis-specific chromodomain protein Y 1-like			Y	NC_072422.1	16337876	16340122	plus	0		
+9598	Pan troglodytes	129138961	0	live	LOC129138961		5.8S ribosomal RNA			Y	NC_072422.1	29340023	29340174	minus	1		
+9598	Pan troglodytes	129138952	0	live	LOC129138952		uncharacterized LOC129138952			Y	NC_072422.1	3160259	3196050	minus	3		
+9598	Pan troglodytes	129138951	0	live	LOC129138951		uncharacterized LOC129138951			Y	NC_072422.1	3940763	3956871	plus	3		
+9598	Pan troglodytes	129138950	0	live	LOC129138950		uncharacterized LOC129138950			Y	NC_072422.1	4057698	4078952	minus	3		
+9598	Pan troglodytes	129138947	0	live	LOC129138947		endogenous retrovirus group K member 6 Env polyprotein-like			Y	NC_072422.1	24636650	24638709	minus	0		
+9598	Pan troglodytes	129138943	0	live	LOC129138943		tektin-4-like			Y	NC_072422.1	36410724	36413358	plus	0		
+9598	Pan troglodytes	129138940	0	live	LOC129138940		uncharacterized LOC129138940			Y	NC_072422.1	547520	551707	plus	2		
+9598	Pan troglodytes	129138937	0	live	LOC129138937		uncharacterized LOC129138937			Y	NC_072422.1	28397708	28419110	plus	3		
+9598	Pan troglodytes	129138936	0	live	LOC129138936		uncharacterized LOC129138936			Y	NC_072422.1	28097960	28109282	minus	2		
+9598	Pan troglodytes	129138934	0	live	LOC129138934		uncharacterized LOC129138934			Y	NC_072422.1	24851752	24864004	minus	4		
+9598	Pan troglodytes	129138933	0	live	LOC129138933		uncharacterized LOC129138933			Y	NC_072422.1	21605736	21611091	plus	4		
+9598	Pan troglodytes	129138932	0	live	LOC129138932		ankyrin repeat domain-containing protein SOWAHC-like	ankyrin repeat domain-containing protein SOWAHC-like		Y	NC_072422.1	36397856	36404347	plus	2		
+9598	Pan troglodytes	129138931	0	live	LOC129138931		immunoglobulin kappa variable 1-39-like			Y	NC_072422.1	31529848	31536140	plus	0		
+9598	Pan troglodytes	129138930	0	live	LOC129138930		adenylate kinase isoenzyme 6-like			Y	NC_072422.1	27512820	27529060	plus	0		
+9598	Pan troglodytes	129138929	0	live	LOC129138929		uncharacterized LOC129138929			Y	NC_072422.1	26386069	26411221	plus	0		
+9598	Pan troglodytes	129138927	0	live	LOC129138927		proline-rich protein 33-like			Y	NC_072422.1	21716571	21719352	plus	0		
+9598	Pan troglodytes	129138926	0	live	LOC129138926		RNA-binding motif protein, Y chromosome, family 1 member B-like			Y	NC_072422.1	19130384	19138647	plus	0		
+9598	Pan troglodytes	129138925	0	live	LOC129138925		adenylate kinase isoenzyme 6-like			Y	NC_072422.1	16592514	16603778	minus	0		
+9598	Pan troglodytes	129138924	0	live	LOC129138924		centriole and centriolar satellite protein OFD1-like			Y	NC_072422.1	16056307	16074701	plus	0		
+9598	Pan troglodytes	129138923	0	live	LOC129138923		RNA-binding motif protein, Y chromosome, family 1 member B-like			Y	NC_072422.1	14739242	14747249	plus	0		
+9598	Pan troglodytes	129138921	0	live	LOC129138921		uncharacterized LOC129138921			Y	NC_072422.1	1723997	1725688	minus	2		
+9598	Pan troglodytes	129138920	0	live	LOC129138920		uncharacterized LOC129138920			X	NC_072421.1	1887209	1905812	minus	6		
+9598	Pan troglodytes	129138920	0	live	LOC129138920		uncharacterized LOC129138920			Y	NC_072422.1	1682199	1700751	minus	6		
+9598	Pan troglodytes	129138918	0	live	LOC129138918		endogenous retrovirus group K member 6 Env polyprotein-like			Y	NC_072422.1	30124258	30126317	minus	0		
+9598	Pan troglodytes	129138917	0	live	LOC129138917		uncharacterized LOC129138917			Y	NC_072422.1	15713577	15723778	plus	4		
+9598	Pan troglodytes	129138916	0	live	LOC129138916		uncharacterized LOC129138916			Y	NC_072422.1	25179646	25190023	plus	4		
+9598	Pan troglodytes	129138915	0	live	LOC129138915		uncharacterized LOC129138915			Y	NC_072422.1	30667338	30677724	plus	4		
+9598	Pan troglodytes	129138911	0	live	LOC129138911		C-terminal-binding protein 2-like			Y	NC_072422.1	13919844	13921715	plus	0		
+9598	Pan troglodytes	129138910	0	live	LOC129138910		uncharacterized LOC129138910			Y	NC_072422.1	11851278	11857931	plus	2		
+9598	Pan troglodytes	129138908	0	live	LOC129138908		uncharacterized LOC129138908			Y	NC_072422.1	2941277	2968535	plus	3		
+9598	Pan troglodytes	129138907	0	live	LOC129138907		endogenous retrovirus group K member 6 Env polyprotein-like			Y	NC_072422.1	15169534	15171593	minus	0		
+9598	Pan troglodytes	129138906	0	live	LOC129138906		translation initiation factor IF-2-like			Y	NC_072422.1	12907250	12910820	minus	0		
+9598	Pan troglodytes	129138905	0	live	LOC129138905		cell division cycle protein 27 homolog			Y	NC_072422.1	12903958	12905870	minus	0		
+9598	Pan troglodytes	129138904	0	live	LOC129138904		RNA-binding motif protein, Y chromosome, family 1 member B-like			Y	NC_072422.1	12767985	12775965	minus	0		
+9598	Pan troglodytes	129138903	0	live	LOC129138903		uncharacterized LOC129138903			Y	NC_072422.1	12702378	12705294	minus	4		
+9598	Pan troglodytes	129138900	0	live	LOC129138900		testis-specific chromodomain protein Y 1-like			Y	NC_072422.1	8877991	8879312	plus	0		
+9598	Pan troglodytes	129138874	0	live	LOC129138874		60S ribosomal protein L6-like			X	NC_072421.1	1674805	1677162	plus	0		
+9598	Pan troglodytes	129138874	0	live	LOC129138874		60S ribosomal protein L6-like			Y	NC_072422.1	1469464	1471162	plus	0		
+9598	Pan troglodytes	129138707	0	live	LOC129138707		uncharacterized LOC129138707			X	NC_072421.1	2272328	2273903	plus	2		
+9598	Pan troglodytes	129138707	0	live	LOC129138707		uncharacterized LOC129138707			Y	NC_072422.1	2067348	2068820	plus	2		
+9598	Pan troglodytes	129138652	0	live	LOC129138652		uncharacterized LOC129138652			X	NC_072421.1	2685137	2694842	plus	3		
+9598	Pan troglodytes	129138652	0	live	LOC129138652		uncharacterized LOC129138652			Y	NC_072422.1	2490882	2500368	plus	3		
+9598	Pan troglodytes	129138639	0	live	LOC129138639		uncharacterized LOC129138639	uncharacterized protein LOC129138639		X	NC_072421.1	1083957	1101267	minus	2		
+9598	Pan troglodytes	129138639	0	live	LOC129138639		uncharacterized LOC129138639	uncharacterized protein LOC129138639		Y	NC_072422.1	879965	897668	minus	2		
+9598	Pan troglodytes	112209750	0	live	LOC112209750		small nucleolar RNA SNORA48			Y	NC_072422.1	4130913	4131047	plus	1		
+9598	Pan troglodytes	112209742	0	live	LOC112209742		small nucleolar RNA SNORA20			Y	NC_072422.1	5400314	5400445	plus	1		
+9598	Pan troglodytes	112209739	0	live	LOC112209739		U6 spliceosomal RNA			Y	NC_072422.1	2972898	2973002	plus	1		
+9598	Pan troglodytes	112209738	0	live	LOC112209738		U6 spliceosomal RNA			Y	NC_072422.1	4099790	4099896	minus	1		
+9598	Pan troglodytes	112209737	0	live	LOC112209737		U6 spliceosomal RNA			Y	NC_072422.1	10330775	10330879	minus	1		
+9598	Pan troglodytes	112209736	0	live	LOC112209736		U6 spliceosomal RNA			Y	NC_072422.1	4046179	4046285	plus	1		
+9598	Pan troglodytes	112209735	0	live	LOC112209735		U1 spliceosomal RNA			Y	NC_072422.1	30998089	30998248	minus	1		
+9598	Pan troglodytes	112209734	0	live	LOC112209734		U1 spliceosomal RNA			Y	NC_072422.1	16035877	16036036	minus	1		
+9598	Pan troglodytes	112209678	0	live	LOC112209678		U1 spliceosomal RNA			Y	NC_072422.1	16426653	16426812	plus	1		
+9598	Pan troglodytes	112209539	0	live	LOC112209539		U1 spliceosomal RNA			Y	NC_072422.1	25816486	25816645	plus	1		
+9598	Pan troglodytes	112209532	0	live	LOC112209532		U1 spliceosomal RNA			Y	NC_072422.1	26216684	26216847	plus	1		
+9598	Pan troglodytes	112209522	0	live	LOC112209522		U1 spliceosomal RNA			Y	NC_072422.1	17885881	17886044	minus	1		
+9598	Pan troglodytes	112209512	0	live	LOC112209512		U1 spliceosomal RNA			Y	NC_072422.1	27294716	27294879	minus	1		
+9598	Pan troglodytes	112209500	0	live	LOC112209500		5.8S ribosomal RNA			Y	NC_072422.1	14601562	14601713	minus	1		
+9598	Pan troglodytes	112209491	0	live	LOC112209491		PTPN13 like Y-linked pseudogene			Y	NC_072422.1	17826923	17839449	minus	0		
+9598	Pan troglodytes	112209242	0	live	LOC112209242		uncharacterized LOC112209242			Y	NC_072422.1	15321509	15330722	plus	3		
+9598	Pan troglodytes	112209237	0	live	LOC112209237		uncharacterized LOC112209237			Y	NC_072422.1	7832245	7835266	minus	3		
+9598	Pan troglodytes	112209235	0	live	LOC112209235		anosmin-1-like			Y	NC_072422.1	7696200	7878923	minus	0		
+9598	Pan troglodytes	112209205	0	live	LOC112209205		ribonuclease H2 subunit C-like	ribonuclease H2 subunit C pseudogene		Y	NC_072422.1	2978003	2978575	plus	0		
+9598	Pan troglodytes	112209191	0	live	LOC112209191		nucleosome assembly protein 1-like 1			Y	NC_072422.1	3119960	3121783	minus	0		
+9598	Pan troglodytes	112209183	0	live	LOC112209183		argininosuccinate synthase-like			Y	NC_072422.1	4322718	4331150	minus	0		
+9598	Pan troglodytes	112208999	0	live	LOC112208999		developmental pluripotency-associated protein 2-like	developmental pluripotency-associated protein 2 pseudogene		Y	NC_072422.1	8426805	8427503	minus	0		
+9598	Pan troglodytes	112208983	0	live	LOC112208983		TGF-beta-activated kinase 1 and MAP3K7-binding protein 3-like			Y	NC_072422.1	8492882	8517409	plus	0		
+9598	Pan troglodytes	112208979	0	live	LOC112208979		glycoprotein Xg-like			Y	NC_072422.1	9178236	9236354	plus	0		
+9598	Pan troglodytes	112208922	0	live	LOC112208922		centriole and centriolar satellite protein OFD1-like			Y	NC_072422.1	17703918	17767139	plus	0		
+9598	Pan troglodytes	112208917	0	live	LOC112208917		testis-specific XK-related protein, Y-linked-like			Y	NC_072422.1	17861259	17861739	minus	0		
+9598	Pan troglodytes	112208387	0	live	LOC112208387		actin, cytoplasmic 1-like			Y	NC_072422.1	25853938	25855572	plus	0		
+9598	Pan troglodytes	112208383	0	live	LOC112208383		testis-specific XK-related protein, Y-linked-like			Y	NC_072422.1	25842290	25842768	plus	0		
+9598	Pan troglodytes	112208364	0	live	LOC112208364		protein FAM8A1-like	protein FAM8A1 pseudogene		Y	NC_072422.1	9376235	9377447	minus	0		
+9598	Pan troglodytes	112208158	0	live	LOC112208158		uncharacterized LOC112208158			Y	NC_072422.1	18899711	18921101	plus	3		
+9598	Pan troglodytes	112208118	0	live	LOC112208118		heat shock transcription factor, Y-linked-like	heat shock transcription factor, Y-linked pseudogene		Y	NC_072422.1	18206856	18207811	minus	0		
+9598	Pan troglodytes	112208099	0	live	LOC112208099		lymphocyte-specific protein 1-like			Y	NC_072422.1	21720165	21820806	minus	0		
+9598	Pan troglodytes	112208094	0	live	LOC112208094		RNA-binding motif protein, Y chromosome, family 1 member F/J-like			Y	NC_072422.1	20302709	20655852	minus	0		
+9598	Pan troglodytes	112208075	0	live	LOC112208075		acylglycerol kinase, mitochondrial-like	acylglycerol kinase, mitochondrial pseudogene		Y	NC_072422.1	6050557	6056274	plus	0		
+9598	Pan troglodytes	112208067	0	live	LOC112208067		F-box-like/WD repeat-containing protein TBL1Y			Y	NC_072422.1	11777377	11800785	plus	0		
+9598	Pan troglodytes	112208066	0	live	LOC112208066		uncharacterized LOC112208066	uncharacterized protein LOC112208066		Y	NC_072422.1	9267141	9291086	plus	7		
+9598	Pan troglodytes	112208056	0	live	LOC112208056		U1 spliceosomal RNA			Y	NC_072422.1	25502132	25502291	minus	1		
+9598	Pan troglodytes	112208055	0	live	LOC112208055		U1 spliceosomal RNA			Y	NC_072422.1	16826630	16826793	plus	1		
+9598	Pan troglodytes	112208049	0	live	LOC112208049		ras-related protein Rab-9A-like			Y	NC_072422.1	16815972	16818514	minus	0		
+9598	Pan troglodytes	112207660	0	live	LOC112207660		uncharacterized LOC112207660			Y	NC_072422.1	23335706	23335856	minus	0		
+9598	Pan troglodytes	112207650	0	live	LOC112207650		centriole and centriolar satellite protein OFD1-like			Y	NC_072422.1	21965735	21993972	minus	0		
+9598	Pan troglodytes	112207578	0	live	LOC112207578		uncharacterized LOC112207578			Y	NC_072422.1	31815149	31817100	minus	0		
+9598	Pan troglodytes	112207447	0	live	LOC112207447		testis-specific Y-encoded protein 3-like			Y	NC_072422.1	29674374	29677104	minus	0		
+9598	Pan troglodytes	112207441	0	live	LOC112207441		5.8S ribosomal RNA			Y	NC_072422.1	12913774	12913925	plus	1		
+9598	Pan troglodytes	112207440	0	live	LOC112207440		cell division cycle protein 27 homolog			Y	NC_072422.1	29348087	29365929	plus	0		
+9598	Pan troglodytes	112207101	0	live	LOC112207101		uncharacterized LOC112207101			X	NC_072421.1	846561	853085	plus	3		
+9598	Pan troglodytes	112207101	0	live	LOC112207101		uncharacterized LOC112207101			Y	NC_072422.1	644577	651340	plus	3		
+9598	Pan troglodytes	112207061	0	live	LOC112207061		fatty acid-binding protein 5-like			X	NC_072421.1	980263	1004348	minus	0		
+9598	Pan troglodytes	112207061	0	live	LOC112207061		fatty acid-binding protein 5-like			Y	NC_072422.1	775949	801373	minus	0		
+9598	Pan troglodytes	112206597	0	live	LOC112206597		uncharacterized LOC112206597			Y	NC_072422.1	23445033	23449578	plus	0		
+9598	Pan troglodytes	112206531	0	live	LOC112206531		uncharacterized LOC112206531			Y	NC_072422.1	30529285	30535568	minus	3		
+9598	Pan troglodytes	112206510	0	live	LOC112206510		raftlin-like			Y	NC_072422.1	24079530	24147318	minus	0		
+9598	Pan troglodytes	112205378	0	live	LOC112205378		uncharacterized LOC112205378			Y	NC_072422.1	25988822	25993844	minus	0		
+9598	Pan troglodytes	112204554	0	live	LOC112204554		uncharacterized LOC112204554			Y	NC_072422.1	31564353	31566001	minus	0		
+9598	Pan troglodytes	107973657	0	live	LOC107973657		translation initiation factor IF-2-like			Y	NC_072422.1	14604666	14608285	plus	0		
+9598	Pan troglodytes	107972829	0	live	LOC107972829		filaggrin-2-like			Y	NC_072422.1	23337039	23340263	plus	0		
+9598	Pan troglodytes	107972814	0	live	LOC107972814		testis-specific XK-related protein, Y-linked-like			Y	NC_072422.1	26237101	26241381	plus	0		
+9598	Pan troglodytes	107972546	0	live	LOC107972546		C-terminal-binding protein 2-like			Y	NC_072422.1	18616204	18618746	minus	0		
+9598	Pan troglodytes	107971315	0	live	LOC107971315		uncharacterized LOC107971315			Y	NC_072422.1	15573178	15581248	minus	4		
+9598	Pan troglodytes	107971314	0	live	LOC107971314		uncharacterized LOC107971314			Y	NC_072422.1	25038595	25048353	minus	3		
+9598	Pan troglodytes	107971311	0	live	LOC107971311		uncharacterized LOC107971311			Y	NC_072422.1	30542441	30567190	minus	4		
+9598	Pan troglodytes	107971309	0	live	LOC107971309		uncharacterized LOC107971309			Y	NC_072422.1	25055135	25079925	minus	6		
+9598	Pan troglodytes	107971301	0	live	LOC107971301		C-terminal-binding protein 2-like			Y	NC_072422.1	13650541	13652662	minus	0		
+9598	Pan troglodytes	107971298	0	live	LOC107971298		uncharacterized LOC107971298			Y	NC_072422.1	24173215	24176236	plus	3		
+9598	Pan troglodytes	107971295	0	live	LOC107971295		testis-specific basic protein Y 2	testis-specific basic protein Y 2		Y	NC_072422.1	26717595	26748888	plus	14		
+9598	Pan troglodytes	107971294	0	live	LOC107971294		uncharacterized LOC107971294			Y	NC_072422.1	30276013	30284950	plus	3		
+9598	Pan troglodytes	107971292	0	live	LOC107971292		uncharacterized LOC107971292			Y	NC_072422.1	24788763	24801234	plus	5		
+9598	Pan troglodytes	107971290	0	live	LOC107971290		uncharacterized LOC107971290			Y	NC_072422.1	15245047	15262794	plus	6		
+9598	Pan troglodytes	107971289	0	live	LOC107971289		uncharacterized LOC107971289			Y	NC_072422.1	30199485	30217267	plus	6		
+9598	Pan troglodytes	107971288	0	live	LOC107971288		uncharacterized LOC107971288			Y	NC_072422.1	24712284	24730057	plus	8		
+9598	Pan troglodytes	107971282	0	live	LOC107971282		translation initiation factor IF-2-like			Y	NC_072422.1	29343134	29346749	plus	0		
+9598	Pan troglodytes	107971281	0	live	LOC107971281		keratin, type I cytoskeletal 18-like			Y	NC_072422.1	18622199	18622719	minus	0		
+9598	Pan troglodytes	107971280	0	live	LOC107971280		RNA-binding motif protein, Y chromosome, family 1 member B-like			Y	NC_072422.1	29478829	29486895	plus	0		
+9598	Pan troglodytes	107971279	0	live	LOC107971279		ras-related protein Rab-9A-like			Y	NC_072422.1	19795595	19796225	plus	0		
+9598	Pan troglodytes	107971278	0	live	LOC107971278		ras-related protein Rab-9A-like			Y	NC_072422.1	19752982	19753612	minus	0		
+9598	Pan troglodytes	107971277	0	live	LOC107971277		RNA-binding motif protein, Y chromosome, family 1 member F/J-like			Y	NC_072422.1	19613500	19978515	plus	0		
+9598	Pan troglodytes	107971276	0	live	LOC107971276		ras-related protein Rab-9A-like			Y	NC_072422.1	20531451	20532081	plus	0		
+9598	Pan troglodytes	107971275	0	live	LOC107971275		ras-related protein Rab-9A-like			Y	NC_072422.1	20488821	20489451	minus	0		
+9598	Pan troglodytes	107971272	0	live	LOC107971272		RNA-binding motif protein, Y chromosome, family 1 member F/J-like			Y	NC_072422.1	21082569	21143632	plus	0		
+9598	Pan troglodytes	107971271	0	live	LOC107971271		ras-related protein Rab-9A-like			Y	NC_072422.1	21224649	21225279	minus	0		
+9598	Pan troglodytes	107971270	0	live	LOC107971270		ras-related protein Rab-9A-like			Y	NC_072422.1	21267278	21267908	plus	0		
+9598	Pan troglodytes	107971260	0	live	LOC107971260		putative uncharacterized protein FLJ44672			Y	NC_072422.1	31283256	31283979	plus	0		
+9598	Pan troglodytes	107971062	0	live	LOC107971062		60S ribosomal protein L14-like			X	NC_072421.1	1523654	1525250	minus	0		
+9598	Pan troglodytes	107971062	0	live	LOC107971062		60S ribosomal protein L14-like			Y	NC_072422.1	1318589	1320185	minus	0		
+9598	Pan troglodytes	107970980	0	live	LOC107970980		uncharacterized LOC107970980			Y	NC_072422.1	2221797	2230897	minus	5		
+9598	Pan troglodytes	107966613	0	live	LOC107966613		tubulin beta-8 chain-like			Y	NC_072422.1	26090033	26100737	plus	0		
+9598	Pan troglodytes	107966568	0	live	LOC107966568		arylsulfatase D-like			Y	NC_072422.1	9313547	9338323	minus	0		
+9598	Pan troglodytes	107966130	0	live	LOC107966130		RNA-binding motif protein, Y chromosome, family 1 member F/J-like			Y	NC_072422.1	19877219	19933999	minus	0		
+9598	Pan troglodytes	104005655	0	live	LOC104005655		uncharacterized LOC104005655			Y	NC_072422.1	13617554	13638955	minus	3		
+9598	Pan troglodytes	104005648	0	live	LOC104005648		uncharacterized LOC104005648			Y	NC_072422.1	13932877	13954700	plus	3		
+9598	Pan troglodytes	104005582	0	live	LOC104005582		uncharacterized LOC104005582			Y	NC_072422.1	6189957	6200272	minus	4		
+9598	Pan troglodytes	104005549	0	live	LOC104005549		testis-specific basic protein Y 2	testis-specific basic protein Y 2		Y	NC_072422.1	17354236	17385672	minus	13		
+9598	Pan troglodytes	104005540	0	live	LOC104005540		RNA-binding motif protein, Y chromosome, family 1 member B-like			Y	NC_072422.1	19571029	19597809	minus	0		
+9598	Pan troglodytes	104005531	0	live	LOC104005531		RNA-binding motif protein, Y chromosome, family 1 member F/J-like			Y	NC_072422.1	20350157	20407832	plus	0		
+9598	Pan troglodytes	104005502	0	live	LOC104005502		keratin, type I cytoskeletal 18-like			Y	NC_072422.1	18881860	18882380	plus	0		
+9598	Pan troglodytes	104004232	0	live	LOC104004232		keratin, type I cytoskeletal 18-like			Y	NC_072422.1	13915470	13915989	plus	0		
+9598	Pan troglodytes	104004041	0	live	LOC104004041		surfeit locus protein 6-like	surfeit locus protein 6 pseudogene		Y	NC_072422.1	9977033	9985681	plus	0		
+9598	Pan troglodytes	101059384	0	live	LOC101059384		glyceraldehyde-3-phosphate dehydrogenase-like	glyceraldehyde-3-phosphate dehydrogenase pseudogene		Y	NC_072422.1	10652565	10657776	plus	0		
+9598	Pan troglodytes	101059054	0	live	LOC101059054		RNA-binding motif protein, Y chromosome, family 1 member F/J-like			Y	NC_072422.1	12273901	12338879	minus	0		
+9598	Pan troglodytes	100615847	0	live	LOC100615847		RNA-binding motif protein, Y chromosome, family 1 member F/J-like			Y	NC_072422.1	24601170	24607893	minus	0		
+9598	Pan troglodytes	100615813	0	live	LOC100615813		PTPN13 like Y-linked pseudogene			Y	NC_072422.1	16850989	16887507	plus	0		
+9598	Pan troglodytes	100615358	0	live	LOC100615358		uncharacterized LOC100615358			Y	NC_072422.1	25324827	25329855	plus	0		
+9598	Pan troglodytes	100615139	0	live	LOC100615139		uncharacterized protein C12orf42-like	uncharacterized protein C12orf42-like|uncharacterized protein C12orf42 pseudogene		Y	NC_072422.1	11905371	11910261	minus	2		
+9598	Pan troglodytes	100614916	0	live	LOC100614916		actin-related protein 3B-like	actin-related protein 3B pseudogene		Y	NC_072422.1	31608744	31610114	minus	0		
+9598	Pan troglodytes	100614826	0	live	LOC100614826		double homeobox protein 4-like protein 4			Y	NC_072422.1	31664171	31665439	minus	0		
+9598	Pan troglodytes	100614742	0	live	LOC100614742		double homeobox protein 4-like protein 4	putative double homeobox protein 3		Y	NC_072422.1	31677226	31678566	minus	0		
+9598	Pan troglodytes	100614199	0	live	LOC100614199		C-terminal-binding protein 2-like			Y	NC_072422.1	18886219	18888372	plus	0		
+9598	Pan troglodytes	100613584	0	live	LOC100613584		ras-related protein Rab-9A-like			Y	NC_072422.1	26205960	26208494	minus	0		
+9598	Pan troglodytes	100613329	0	live	LOC100613329		centriole and centriolar satellite protein OFD1-like			Y	NC_072422.1	26335482	26381343	minus	0		
+9598	Pan troglodytes	100612923	0	live	LOC100612923		centriole and centriolar satellite protein OFD1-like			Y	NC_072422.1	27130409	27176011	plus	0		
+9598	Pan troglodytes	100612720	0	live	LOC100612720		testis-specific XK-related protein, Y-linked-like			Y	NC_072422.1	27269847	27270590	minus	0		
+9598	Pan troglodytes	100612615	0	live	LOC100612615		ras-related protein Rab-9A-like			Y	NC_072422.1	27302997	27305539	plus	0		
+9598	Pan troglodytes	100612430	0	live	LOC100612430		testis-specific XK-related protein, Y-linked-like			Y	NC_072422.1	25475998	25476476	minus	0		
+9598	Pan troglodytes	100612233	0	live	LOC100612233		PTPN13 like Y-linked pseudogene			Y	NC_072422.1	26263153	26276307	plus	0		
+9598	Pan troglodytes	100612134	0	live	LOC100612134		RNA-binding motif protein, Y chromosome, family 1 member A1-like			Y	NC_072422.1	26417651	26427052	plus	0		
+9598	Pan troglodytes	100611768	0	live	LOC100611768		heat shock transcription factor, Y-linked-like			Y	NC_072422.1	3075171	3075709	minus	0		
+9598	Pan troglodytes	100611768	0	live	LOC100611768		heat shock transcription factor, Y-linked-like			Y	NC_072422.1	3071425	3075119	minus	0		
+9598	Pan troglodytes	100611521	0	live	LOC100611521		PTPN13 like Y-linked pseudogene			Y	NC_072422.1	27235793	27248317	minus	0		
+9598	Pan troglodytes	100611199	0	live	LOC100611199		steryl-sulfatase-like			Y	NC_072422.1	6936294	7022319	plus	0		
+9598	Pan troglodytes	100611166	0	live	LOC100611166		tubulin beta-8 chain-like			Y	NC_072422.1	27417310	27420708	minus	0		
+9598	Pan troglodytes	100611108	0	live	LOC100611108		adenylate kinase isoenzyme 6-like			Y	NC_072422.1	15858958	15863750	plus	0		
+9598	Pan troglodytes	100610795	0	live	LOC100610795		ATP synthase-coupling factor 6, mitochondrial-like			Y	NC_072422.1	3560757	3562825	plus	0		
+9598	Pan troglodytes	100610162	0	live	LOC100610162		testis-specific XK-related protein, Y-linked-like			Y	NC_072422.1	16009792	16010270	minus	0		
+9598	Pan troglodytes	100609862	0	live	LOC100609862		actin, cytoplasmic 1-like			Y	NC_072422.1	16464084	16465718	plus	0		
+9598	Pan troglodytes	100609575	0	live	LOC100609575		testis-specific XK-related protein, Y-linked-like			Y	NC_072422.1	16452430	16452908	plus	0		
+9598	Pan troglodytes	100609390	0	live	LOC100609390		tubulin beta-8 chain-like			Y	NC_072422.1	16700848	16703717	plus	0		
+9598	Pan troglodytes	100609116	0	live	LOC100609116		testis-specific XK-related protein, Y-linked-like			Y	NC_072422.1	16847127	16851411	plus	0		
+9598	Pan troglodytes	100608902	0	live	LOC100608902		centriole and centriolar satellite protein OFD1-like			Y	NC_072422.1	16945554	17008797	minus	0		
+9598	Pan troglodytes	100608700	0	live	LOC100608700		uncharacterized LOC100608700			Y	NC_072422.1	12648423	12659527	plus	6		
+9598	Pan troglodytes	100608698	0	live	LOC100608698		lymphocyte-specific protein 1-like			Y	NC_072422.1	21862657	21868790	minus	0		
+9598	Pan troglodytes	100608525	0	live	LOC100608525		cell division cycle protein 27 homolog			Y	NC_072422.1	23341946	23343824	plus	0		
+9598	Pan troglodytes	100608439	0	live	LOC100608439		cell division cycle protein 27 homolog	cell division cycle protein 27 homolog pseudogene		Y	NC_072422.1	23460297	23462223	minus	0		
+9598	Pan troglodytes	100608230	0	live	LOC100608230		ras-related protein Rab-9A-like			Y	NC_072422.1	17894161	17896704	plus	0		
+9598	Pan troglodytes	100608190	0	live	LOC100608190		testis-specific XK-related protein, Y-linked-like			Y	NC_072422.1	30972020	30972498	minus	0		
+9598	Pan troglodytes	751056	0	live	LOC751056		CD99 antigen-like	CD99 antigen-like		X	NC_072421.1	2988950	3050422	plus	16		
+9598	Pan troglodytes	751056	0	live	LOC751056		CD99 antigen-like	CD99 antigen-like		Y	NC_072422.1	2792244	2853716	plus	16		
+9598	Pan troglodytes	750025	0	live	LOC750025	UBE2Q2L	putative ubiquitin-conjugating enzyme E2Q2-like protein	LOW QUALITY PROTEIN: putative ubiquitin-conjugating enzyme E2Q2-like protein|ubiquitin-conjugating enzyme E2Q family member 2-like		Y	NC_072422.1	31200280	31210299	plus	3		
+9598	Pan troglodytes	750009	0	live	LOC750009		actin, cytoplasmic 1-like			Y	NC_072422.1	30959653	30960806	minus	0		
+9598	Pan troglodytes	749973	0	live	LOC749973		uncharacterized LOC749973	uncharacterized protein LOC749973|putative transcript Y 11 protein		Y	NC_072422.1	30088814	30093361	minus	7		
+9598	Pan troglodytes	749927	0	live	LOC749927		heat shock transcription factor, Y-linked-like			Y	NC_072422.1	27617683	27619092	minus	0		
+9598	Pan troglodytes	749862	0	live	LOC749862		actin, clone 302-like			Y	NC_072422.1	25463194	25464828	minus	0		
+9598	Pan troglodytes	744852	0	live	LOC744852		RNA-binding motif protein, Y chromosome, family 1 member F/J-like			Y	NC_072422.1	12194023	12380010	plus	0		
+9598	Pan troglodytes	744425	0	live	LOC744425		testis-specific Y-encoded protein 3-like			Y	NC_072422.1	12706800	12709575	plus	0		
+9598	Pan troglodytes	744052	0	live	LOC744052		golgin subfamily A member 6-like protein 9	putative golgin subfamily A member 6-like protein 3|putative golgin subfamily A member 8D		Y	NC_072422.1	31220169	31226243	minus	0		
+9598	Pan troglodytes	743629	0	live	LOC743629		testis-specific Y-encoded protein 2-like	testis-specific Y-encoded protein 2-like		Y	NC_072422.1	14736145	14738966	plus	5		
+9598	Pan troglodytes	743579	0	live	LOC743579		testis-specific Y-encoded protein 3-like			Y	NC_072422.1	14805652	14808503	minus	0		
+9598	Pan troglodytes	743175	0	live	LOC743175		golgin subfamily A member 6-like protein 9			Y	NC_072422.1	31185542	31194581	plus	0		
+9598	Pan troglodytes	742998	0	live	LOC742998		RNA-binding motif protein, Y chromosome, family 1 member F/J-like			Y	NC_072422.1	15134073	15166483	minus	0		
+9598	Pan troglodytes	742134	0	live	LOC742134		actin, clone 302-like			Y	NC_072422.1	15996982	15998616	minus	0		
+9598	Pan troglodytes	740282	0	live	LOC740282		RNA-binding motif protein, Y chromosome, family 1 member F/J-like			Y	NC_072422.1	12683818	12697963	minus	0		
+9598	Pan troglodytes	740000	0	live	LOC740000		cell division cycle protein 27 homolog	cell division cycle protein 27 homolog pseudogene		Y	NC_072422.1	14609620	14611531	plus	0		
+9598	Pan troglodytes	739668	0	live	LOC739668		RNA-binding motif protein, Y chromosome, family 1 member F/J-like			Y	NC_072422.1	14850958	14864695	plus	0		
+9598	Pan troglodytes	737668	0	live	LOC737668		RNA-binding motif protein, Y chromosome, family 1 member F/J-like			Y	NC_072422.1	19258527	19270194	plus	0		
+9598	Pan troglodytes	736791	0	live	LOC736791		RNA-binding motif protein, Y chromosome, family 1 member F/J-like			Y	NC_072422.1	21039493	21406385	minus	0		
+9598	Pan troglodytes	735716	0	live	LOC735716		C-terminal-binding protein 2-like			Y	NC_072422.1	28384221	28386377	plus	0		
+9598	Pan troglodytes	735503	0	live	LOC735503		XK-related protein 3-like			Y	NC_072422.1	21907616	21945459	minus	0		
+9598	Pan troglodytes	735402	0	live	LOC735402		C-terminal-binding protein 2-like	C-terminal-binding protein 2 pseudogene		Y	NC_072422.1	28130689	28132832	minus	0		
+9598	Pan troglodytes	735401	0	live	LOC735401		heat shock transcription factor, Y-linked-like			Y	NC_072422.1	21951313	21952976	plus	0		
+9598	Pan troglodytes	473903	0	live	LOC473903		RNA-binding motif protein, Y chromosome, family 1 member A1-like			Y	NC_072422.1	17675807	17685209	minus	0		
+9598	Pan troglodytes	473897	0	live	LOC473897		tubulin beta-8 chain-like			Y	NC_072422.1	18008733	18011002	minus	0		
+9598	Pan troglodytes	473888	0	live	LOC473888		testis-specific Y-encoded protein 3-like			Y	NC_072422.1	19240129	19242872	minus	0		
+9598	Pan troglodytes	473254	0	live	LOC473254	CK820_G0055322	dehydrogenase/reductase SDR family member on chromosome X	dehydrogenase/reductase (SDR family) X-linked		X, Y							

@@ -1,0 +1,41 @@
+tax_id	Org_name	GeneID	CurrentID	Status	Symbol	Aliases	description	other_designations	map_location	chromosome	genomic_nucleotide_accession.version	start_position_on_the_genomic_accession	end_position_on_the_genomic_accession	orientation	exon_count	OMIM	
+9598	Pan troglodytes	449030	0	live	NLGN4Y		neuroligin 4 Y-linked	neuroligin-4, Y-linked		Y	NC_072422.1	5948685	6239404	plus	7		
+9598	Pan troglodytes	449508	0	live	DDX3Y	DBY	DEAD-box helicase 3 Y-linked	ATP-dependent RNA helicase DDX3Y|DEAD (Asp-Glu-Ala-Asp) box helicase 3, Y-linked|DEAD (Asp-Glu-Ala-Asp) box polypeptide 3, Y-linked|DEAD box protein 3, Y-chromosomal		Y	NC_072422.1	8760423	8776954	minus	20		
+9598	Pan troglodytes	465985	0	live	USP9Y		ubiquitin specific peptidase 9, Y-linked	probable ubiquitin carboxyl-terminal hydrolase FAF-Y|Fat facets protein related, Y-linked|deubiquitinating enzyme FAF-Y|ubiquitin carboxyl-terminal hydrolase FAF-Y|ubiquitin specific peptidase 9, Y-linked (fat facets-like, Drosophila)|ubiquitin thiolesterase FAF-Y|ubiquitin-specific protease 9, Y-linked		Y	NC_072422.1	8821726	8966462	minus	37		
+9598	Pan troglodytes	449579	0	live	UTY		ubiquitously transcribed tetratricopeptide repeat containing, Y-linked	histone demethylase UTY|[histone H3]-trimethyl-L-lysine(27) demethylase UTY|ubiquitously transcribed TPR protein on the Y chromosome|ubiquitously transcribed Y chromosome tetratricopeptide repeat protein|ubiquitously transcribed tetratricopeptide repeat Y-linked|ubiquitously transcribed tetratricopeptide repeat gene, Y-linked|ubiquitously transcribed tetratricopeptide repeat protein		Y	NC_072422.1	8173157	8409832	plus	31		
+9598	Pan troglodytes	107971262	0	live	LOC107971262		heat shock transcription factor, Y-linked-like	heat shock transcription factor, Y-linked-like|heat shock transcription factor, Y-linked pseudogene		Y	NC_072422.1	30902633	30904182	minus	2		
+9598	Pan troglodytes	450123	0	live	LOC450123	CDY1B, CDY2, CDY2A, CDY2B	testis-specific chromodomain protein Y 1	chromodomain Y protein|chromodomain protein, Y-linked, 1B|chromodomain protein, Y-linked, 2A|chromodomain protein, Y-linked, 2B		Y							
+9598	Pan troglodytes	744034	0	live	CDY1	CDY	chromodomain protein, Y-linked, 1	chromodomain protein, Y-linked, 1|Y chromosome chromodomain protein 1, telomeric|chromodomain Y protein|testis-specific chromodomain protein Y 2		Y	NC_072422.1	16123187	16125166	minus	1		
+9598	Pan troglodytes	100608527	0	live	TMSB4Y		thymosin beta 4 Y-linked			Y							
+9598	Pan troglodytes	449580	0	live	ZFY		zinc finger protein Y-linked	zinc finger Y-chromosomal protein		Y	NC_072422.1	3125714	3175902	plus	10		
+9598	Pan troglodytes	449509	0	live	RPS4Y1	RPS4Y	ribosomal protein S4 Y-linked 1	small ribosomal subunit protein eS4, Y isoform 1|40S ribosomal protein S4, Y|small ribosomal subunit protein eS4, Y		Y	NC_072422.1	3033922	3059033	plus	7		
+9598	Pan troglodytes	473886	0	live	AMELY		amelogenin Y-linked	amelogenin, Y isoform|amelogenin (Y chromosome)		Y	NC_072422.1	3364090	3573075	minus	8		
+9598	Pan troglodytes	465981	0	live	TBL1Y		transducin beta like 1 Y-linked	F-box-like/WD repeat-containing protein TBL1Y|LOW QUALITY PROTEIN: F-box-like/WD repeat-containing protein TBL1Y|transducin (beta)-like 1Y-linked		Y	NC_072422.1	3687344	3764780	plus	14		
+9598	Pan troglodytes	449636	0	live	RPS4Y2		ribosomal protein S4 Y-linked 2	small ribosomal subunit protein eS4, Y isoform 2|40S ribosomal protein S4, Y|small ribosomal subunit protein eS4, Y		Y	NC_072422.1	11806383	11831905	plus	8		
+9598	Pan troglodytes	449583	0	live	TTTY15		Y-linked testis transcript 15			Y	NC_072422.1	9019909	9022110	minus	2		
+9598	Pan troglodytes	449031	0	live	TTTY14		testis-specific transcript, Y-linked 14			Y	NC_072422.1	10246637	10396767	minus	2		
+9598	Pan troglodytes	112208118	0	live	LOC112208118		heat shock transcription factor, Y-linked-like	heat shock transcription factor, Y-linked pseudogene		Y	NC_072422.1	18206856	18207811	minus	0		
+9598	Pan troglodytes	449499	0	live	EIF1AY		eukaryotic translation initiation factor 1A Y-linked	eukaryotic translation initiation factor 1A, Y-chromosomal|eIF-4C|eIF1A Y isoform|eukaryotic translation initiation factor 4C		Y	NC_072422.1	11626426	11643155	plus	7		
+9598	Pan troglodytes	449032	0	live	KDM5D	JARID1D, SMCY	lysine demethylase 5D	lysine-specific demethylase 5D|SMC protein|Smcy homolog, Y-linked|[histone H3]-trimethyl-L-lysine(4) demethylase 5D|histone demethylase JARID1D|jumonji, AT rich interactive domain 1D|jumonji/ARID domain-containing protein 1D|lysine (K)-specific demethylase 5D|protein SmcY		Y	NC_072422.1	11042149	11081325	minus	27		
+9598	Pan troglodytes	449495	0	live	PRKY	PRKX	protein kinase, Y-linked	serine/threonine-protein kinase PRKX|protein kinase, X-linked		Y	NC_072422.1	3940578	4043415	plus	9		
+9598	Pan troglodytes	736860	0	live	LOC736860	RBMY1J	RNA-binding motif protein, Y chromosome, family 1 member F/J	RNA-binding motif protein, Y chromosome, family 1 member F/J|RBMY1|RNA binding motif protein, Y-linked, family 1, member J		Y	NC_072422.1	19987561	20002093	plus	13		
+9598	Pan troglodytes	736268	0	live	LOC736268		RNA-binding motif protein, Y chromosome, family 1 member F/J	RNA-binding motif protein, Y chromosome, family 1 member F/J|RBMY1|RNA binding motif protein, Y-linked, family 1, member A1		Y	NC_072422.1	19547170	19561690	minus	13		
+9598	Pan troglodytes	742075	0	live	LOC742075		variable charge Y-linked-like	LOW QUALITY PROTEIN: variable charge X-linked protein 1		Y	NC_072422.1	7610034	7611032	plus	2		
+9598	Pan troglodytes	742119	0	live	LOC742119		variable charge Y-linked-like	variable charge X-linked protein 2		Y	NC_072422.1	7518607	7519595	minus	2		
+9598	Pan troglodytes	112209491	0	live	LOC112209491		PTPN13 like Y-linked pseudogene			Y	NC_072422.1	17826923	17839449	minus	0		
+9598	Pan troglodytes	112208917	0	live	LOC112208917		testis-specific XK-related protein, Y-linked-like			Y	NC_072422.1	17861259	17861739	minus	0		
+9598	Pan troglodytes	112208383	0	live	LOC112208383		testis-specific XK-related protein, Y-linked-like			Y	NC_072422.1	25842290	25842768	plus	0		
+9598	Pan troglodytes	107972814	0	live	LOC107972814		testis-specific XK-related protein, Y-linked-like			Y	NC_072422.1	26237101	26241381	plus	0		
+9598	Pan troglodytes	100615813	0	live	LOC100615813		PTPN13 like Y-linked pseudogene			Y	NC_072422.1	16850989	16887507	plus	0		
+9598	Pan troglodytes	100612720	0	live	LOC100612720		testis-specific XK-related protein, Y-linked-like			Y	NC_072422.1	27269847	27270590	minus	0		
+9598	Pan troglodytes	100612430	0	live	LOC100612430		testis-specific XK-related protein, Y-linked-like			Y	NC_072422.1	25475998	25476476	minus	0		
+9598	Pan troglodytes	100612233	0	live	LOC100612233		PTPN13 like Y-linked pseudogene			Y	NC_072422.1	26263153	26276307	plus	0		
+9598	Pan troglodytes	100611768	0	live	LOC100611768		heat shock transcription factor, Y-linked-like			Y	NC_072422.1	3075171	3075709	minus	0		
+9598	Pan troglodytes	100611768	0	live	LOC100611768		heat shock transcription factor, Y-linked-like			Y	NC_072422.1	3071425	3075119	minus	0		
+9598	Pan troglodytes	100611521	0	live	LOC100611521		PTPN13 like Y-linked pseudogene			Y	NC_072422.1	27235793	27248317	minus	0		
+9598	Pan troglodytes	100610162	0	live	LOC100610162		testis-specific XK-related protein, Y-linked-like			Y	NC_072422.1	16009792	16010270	minus	0		
+9598	Pan troglodytes	100609575	0	live	LOC100609575		testis-specific XK-related protein, Y-linked-like			Y	NC_072422.1	16452430	16452908	plus	0		
+9598	Pan troglodytes	100609116	0	live	LOC100609116		testis-specific XK-related protein, Y-linked-like			Y	NC_072422.1	16847127	16851411	plus	0		
+9598	Pan troglodytes	100608190	0	live	LOC100608190		testis-specific XK-related protein, Y-linked-like			Y	NC_072422.1	30972020	30972498	minus	0		
+9598	Pan troglodytes	749927	0	live	LOC749927		heat shock transcription factor, Y-linked-like			Y	NC_072422.1	27617683	27619092	minus	0		
+9598	Pan troglodytes	735401	0	live	LOC735401		heat shock transcription factor, Y-linked-like			Y	NC_072422.1	21951313	21952976	plus	0		

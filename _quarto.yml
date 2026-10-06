@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  title: "Carl the chimp - scRNA and snRNA analysis"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Introduction
+      - text: "Carl Cells"
+        menu:
+          - href: analysis/cells_analysis/Cells-from-preprocess-to-clustering.ipynb
+          - text: "Preprocess and cluster"
+          #- href: analysis/cells_analysis/Part03_read_final_SDA_data.ipynb
+          #- text: "SDA module analysis"
+      - text: "Carl Nuclei"
+        menu:
+          - href: analysis/nuclei_analysis/Nuclei-from-preprocess-to-clustering.ipynb
+          - text: "Preprocess and cluster"
+          #- href: analysis/nuclei_analysis/Part03_read_final_SDA_data.ipynb
+          #- text: "SDA module analysis"
+      - text: "Combined"
+        menu:
+          - href: analysis/merge_analysis/NB02_cluster_topometry.ipynb
+            text: "Preprocess and cluster"
+          - href: analysis/merge_analysis/NB03_DPT_and_alignment_palantir.ipynb
+            text: "Pseudotime alignment"
+          - href: analysis/merge_analysis/NB04_LFC_cluster_comparison.ipynb
+            text: "LFC comparison"
+          - href: analysis/merge_analysis/NB05_DPT_Lamian_comparison.ipynb
+            text: "LFC over time"
+
+             
+format:
+  html:
+    theme: 
+      light: [materia, css/materialight.scss]
+      dark: darkly
+    toc: true
+    code-fold: true

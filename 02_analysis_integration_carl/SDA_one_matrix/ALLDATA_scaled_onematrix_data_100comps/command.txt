@@ -1,0 +1,1 @@
+./sda_static_linux --data ./ALLDATA_scaled_onematrix_data.csv --out ./ALLDATA_scaled_onematrix_data_100comps --N 10548 --num_comps 100 --eigen_parallel true --num_blocks 100 num_openmp_threads 10 --remove_zero_comps true --set_seed 21090 41205 

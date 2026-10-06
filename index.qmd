@@ -1,0 +1,22 @@
+---
+author:
+    - name: Samuele
+      orcid: 0000-0000-0000-0001
+      email: instructor1@university.dk
+date-modified: last-modified
+date-format: long
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+::: {.hero-banner}
+# Comparison of Carl's single cell and single nuclei
+:::
+
+&nbsp;
+
+Look for the various notebooks in the sections of the menu
+
+
